@@ -8,6 +8,7 @@ ants beautiful animation using CSS and JavaScript
 
 ## live link
 
+https://peter-kimanzi.github.io/ants-animated/
 
 ## screenshot
 
